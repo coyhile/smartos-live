@@ -66,7 +66,7 @@ JS_CHECK_TARGETS=\
   filewait.js \
 	node_modules/{system,onlyif}.js \
 	vm/sbin/*.js \
-	vm/node_modules/{qmp,VM,dladm}.js \
+	vm/node_modules/{dladm,expander,proptable,utils,VM,vminfo,qmp}.js \
 	img/lib/*.js \
 	img/sbin/imgadm \
 	vm/lib/metadata/*.js
